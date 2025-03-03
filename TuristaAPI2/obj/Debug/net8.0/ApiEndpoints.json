@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TuristaAPI2.Controllers.Utvonal",
+    "Method": "GetAllUtvonals",
+    "RelativePath": "api/Utvonal/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TuristaAPI2.Controllers.Utvonal",
+    "Method": "GetById",
+    "RelativePath": "api/Utvonal/ById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
